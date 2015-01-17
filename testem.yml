@@ -1,0 +1,9 @@
+framework: jasmine
+src_files:
+  - http://d3js.org/d3.v3.min.js
+  - c3.js
+  - c3.css
+  - spec/*-helper.js
+  - spec/*-spec.js
+launch_in_ci:
+  - PhantomJS
